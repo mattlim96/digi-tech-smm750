@@ -1,0 +1,100 @@
+Department,Job title,Salary lower,Salary upper,Weekly hours
+national administration,National Finance & Administration Manager,54285.0,79040.0,50.0
+national administration,National Tax Manager,44660.0,93655.0,50.0
+national administration,Data Scientist,57.0,74430.0,40.0
+national administration,National Finance & Administration Team Leader,47100.0,54255.0,40.0
+national administration,Technical Analyst,47100.0,54255.0,40.0
+national administration,Tax Specialist,41950.0,50475.0,40.0
+national administration,National Administration Analyst,41200.0,45225.0,
+national administration,Personal Assistant - National  Administration,32075.0,37455.0,40.0
+national administration,National  Administration Assistant,32075.0,37455.0,40.0
+national administration,Administration Support Assistant,22310.0,27450.0,40.0
+national administration,National Administration Apprentice,9828.0,16952.0,
+national administration,Data Protection Team Leader,47100.0,54255.0,40.0
+national administration,Data Protection Analyst,41200.0,45225.0,40.0
+national administration,Data Protection Assistant,32075.0,37455.0,40.0
+regional administration,Property Assistant,28755.0,39330.0,40.0
+regional administration,Logistics Assistant,28755.0,39330.0,40.0
+regional administration,Trading Assistant,28755.0,39330.0,40.0
+regional administration,Store Operations Assistant,28755.0,39330.0,40.0
+regional administration,Regional Administration Personal Assistant,28755.0,39330.0,40.0
+regional administration,Administration Support Assistant ,21210.0,30865.0,40.0
+regional administration,Regional Administration Apprentice,9828.0,16952.0,30.0
+national buying,National Buying Director,,,
+national buying,National Buying Manager,54285.0,79040.0,50.0
+national buying,National Buying Analyst,41200.0,45225.0,40.0
+national buying,Pricing Analyst,41200.0,45225.0,40.0
+national buying,Pricing Assistant,32075.0,37455.0,40.0
+national buying,Personal Assistant - National Buying Department,32075.0,37455.0,40.0
+national buying,National Buying Assistant,32075.0,37455.0,40.0
+national buying,National Buying Administration Assistant,22310.0,27450.0,40.0
+national buying,Office Administrator,22310.0,27450.0,40.0
+national buying,National Project Manager,54285.0,79040.0,50.0
+national buying,National Project Specialist,32200.0,46590.0,40.0
+corporate responsibility,Corporate Responsibility Manager,54285.0,79040.0,50.0
+corporate responsibility,Corporate Responsibility Assistant,32075.0,37455.0,40.0
+customer service,Customer Service  Manager,54285.0,79040.0,50.0
+customer service,Customer Service Assistant Manager,46570.0,51580.0,50.0
+customer service,Forecasting & Demand Assistant,32075.0,37455.0,40.0
+customer service,Customer Service Team Leader ,32075.0,37455.0,40.0
+customer service,Customer Service Advisor,12.34,14.97,40.0
+ecommerce,eCommerce Senior Manager,82415.0,102875.0,50.0
+ecommerce,eCommerce Manager,54285.0,79040.0,50.0
+ecommerce,eCommerce Team Leader,47100.0,54255.0,40.0
+ecommerce,eCommerce Senior Analyst,54285.0,70415.0,50.0
+ecommerce,eCommerce Analyst,47100.0,54255.0,
+ecommerce,eCommerce Associate Analyst,41200.0,45225.0,
+ecommerce,  eCommerce Specialist ,32200.0,46590.0,40.0
+ecommerce,eCommerce Assistant ,32075.0,37455.0,40.0
+ecommerce,eCommerce Administrator,22310.0,27450.0,40.0
+global business coordination,GBC Director,,,
+global business coordination,GBC Senior Manager,82415.0,102875.0,50.0
+global business coordination,GBC Manager,54285.0,79040.0,50.0
+global business coordination,GBC Senior Analyst,54285.0,70415.0,40.0
+global business coordination,GBC Analyst,47100.0,54255.0,40.0
+global business coordination,GBC Associate Analyst,41200.0,45225.0,40.0
+global business coordination,GBC Specialist,32200.0,46590.0,40.0
+global business coordination,GBC Personal Assistant,32075.0,37455.0,40.0
+global business coordination,GBC Assistant,32075.0,37455.0,40.0
+hr,HR Manager,44660.0,79040.0,50.0
+hr,HR Senior Analyst,54285.0,70415.0,40.0
+hr,HR Team Leader,47100.0,54255.0,40.0
+hr,HR Technical Analyst,47100.0,54255.0,40.0
+hr,HR Analyst,41200.0,45225.0,40.0
+hr,HR Assistant,29685.0,36860.0,40.0
+it,National IT Senior Manager,82415.0,102875.0,50.0
+it,National IT Manager,54285.0,79040.0,50.0
+it,National IT Senior Analyst,54285.0,70415.0,40.0
+it,National IT Analyst,47100.0,54255.0,40.0
+it,National IT Specialist ,32200.0,46590.0,40.0
+it,National IT Assistant,32075.0,37455.0,40.0
+it,National IT Technician,27445.0,30670.0,40.0
+it,National IT Apprentice,9828.0,16952.0,30.0
+marketing communications,Marketing & Communications Manager,54285.0,79040.0,50.0
+marketing communications,Marketing & Communications Assistant,32075.0,37455.0,40.0
+merchandising category,Merchandising Manager,54285.0,79040.0,50.0
+merchandising category,Merchandising Assistant,32075.0,37455.0,40.0
+merchandising category,Category Analyst,41200.0,45225.0,40.0
+merchandising category,Category Assistant,32075.0,37455.0,40.0
+national property,Regional Property Director,,,50.0
+national property,National Property Manager,54285.0,79040.0,50.0
+national property,Regional Property Manager,44000.0,79040.0,50.0
+national property,National Property Assistant,32075.0,37455.0,40.0
+national property,Regional Property Assistant,28755.0,39330.0,40.0
+supply chain management,Supply Chain Manager,54285.0,79040.0,50.0
+supply chain management,Supply Chain Analyst,41200.0,45225.0,40.0
+supply chain management,Supply Chain Assistant,32075.0,37455.0,40.0
+supply chain management,Supply Chain Co-ordinator,32075.0,37455.0,40.0
+supply chain management,Supply Chain Administrator,22310.0,27450.0,40.0
+supply chain management,Customs Manager,54285.0,79040.0,50.0
+supply chain management,Customs Analyst,41200.0,45225.0,40.0
+supply chain management,Customs Assistant,32075.0,37455.0,40.0
+quality assurance,Quality Assurance Director,,,
+quality assurance,Quality Assurance Manager,54285.0,79040.0,50.0
+quality assurance,Quality Assurance Assistant,32075.0,37455.0,40.0
+quality assurance,Product Technologist,41200.0,45225.0,40.0
+quality assurance,Sampling Chef,30350.0,36055.0,40.0
+quality assurance,Sampling Assistant,25670.0,31100.0,40.0
+quality control,Quality Control Leader,46435.0,50430.0,48.0
+quality control,Quality Control Deputy,4.0,13.78,
+quality control,Quality Control Assistant,10.77,12.78,
